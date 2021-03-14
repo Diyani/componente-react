@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/diyani/componente-react?color=red%20&logo=metro)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/diyani/componente-react?color=yellow&logo=github)
+![Mozilla Add-on](https://img.shields.io/amo/stars/t?color=blue&label=calificacion&logo=%23EA4AAA)
 # COMPONENTE REACT
 
 this project applies the basic knowledge to create an app with react components
