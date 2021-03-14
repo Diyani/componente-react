@@ -1,0 +1,18 @@
+  
+idioma : node_js
+node_js : " 15 "
+caché : npm
+trabajos :
+  incluir :
+    - etapa : prueba
+      guión :
+        - " instalación de npm "
+        - " npm ejecutar compilación "
+        - " inicio npm "
+desplegar :
+  proveedor : lanzamientos
+  api_key : " GITHUB OAUTH TOKEN "
+  archivo : " ARCHIVO PARA CARGAR "
+  skip_cleanup : verdadero
+  en :
+    etiquetas : verdadero
